@@ -1,32 +1,28 @@
 # 👋 Hi, I'm Yvonne Kirschler
 
-**BI & Data Professional** with a background in **IT Service Management**, currently building a freelance path in **Data Engineering, BI Development** and **Analytics**.
+**Business-driven Data & BI Professional** with a background in **IT Service Management** – now shaping a focused, freelance path in **Data Engineering**, **BI Development** and **Analytics**.  
+I build data solutions that are structured, reproducible, and rooted in real-world processes.
 
 ---
 
-## 🧩 What I focus on
-- Structured thinking & clear data logic
-- Real-world use cases with SQL, KPIs & BI
-- Reproducible, business-oriented documentation
-- Learning & sharing – quietly, but consistently
+## 🧩 How I work
+- Structured thinking with clear, testable logic  
+- End-to-end: from data modeling to KPI design & visual insights  
+- Strong in **SQL** · Growing in **Power BI**, **Azure** & **R**  
+- Quietly consistent – I learn, build, refine and document  
 
 ---
 
-## 🔍 Current public project
+## 🔍 In progress
 📂 **[SQL Use Cases for BI & Service Management](https://github.com/yvieki/sql-use-cases)**  
-Practical SQL examples with service-oriented thinking, synthetic test data and real KPIs (e.g. MTTR). More to follow.
+Service metrics, SLAs, data quality – practical SQL examples with synthetic data and real-world relevance.
+
+📊 Visual layers (Power BI, Plotly) and selected ML prototypes – built step by step into a structured, public GitHub library.
 
 ---
 
-## ✍️ Currently working on
-- 🧪 Expanding SQL Use Cases with SLA checks, trends & data quality
-- 📊 Visual layers (Power BI, maybe Plotly)
-- 🌱 Building my GitHub project library step by step
-
----
-
-## 📬 Let's connect
-- GitHub: [@yvieki](https://github.com/yvieki)
+## 📬 Connect with me
+- GitHub: [@yvieki](https://github.com/yvieki)  
 - LinkedIn: [Yvonne Kirschler](https://www.linkedin.com/in/yvonne-kirschler-719224188/)
 
 ---
