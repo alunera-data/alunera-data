@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Yvonne Kirschler
 
-**Business-driven Data & BI Professional** with a background in **IT Service Management** – now shaping a focused, freelance path in **Data Engineering**, **BI Development** and **Analytics**.  
-I build data solutions that are structured, reproducible, and rooted in real-world processes.
+**Data & BI Professional** with a background in **IT Service Management** – now shaping a focused, freelance path in **Data Engineering**, **BI Development** and **Analytics**.  
+I create data solutions that are structured, reproducible, and grounded in real-world processes.
 
 ---
 
 ## 🧩 How I work
+
 - Structured thinking with clear, testable logic  
 - End-to-end: from data modeling to KPI design & visual insights  
 - Strong in **SQL** · Growing in **Power BI**, **Azure** & **R**  
@@ -13,16 +14,23 @@ I build data solutions that are structured, reproducible, and rooted in real-wor
 
 ---
 
-## 🔍 In progress
-📂 **[SQL Use Cases for BI & Service Management](https://github.com/yvieki/sql-use-cases)**  
-Service metrics, SLAs, data quality – practical SQL examples with synthetic data and real-world relevance.
+## 🔍 Current Projects
 
-📊 Visual layers (Power BI, Plotly) and selected ML prototypes – built step by step into a structured, public GitHub library.
+🧠 **[animal-shelter-ml](https://github.com/alunera-data/animal-shelter-ml)**  
+Machine learning project using Random Forests to predict shelter outcomes – submitted for the edX Capstone.
+
+🧪 **[fashion-retail-analysis](https://github.com/alunera-data/fashion-retail-analysis)**  
+NDK HF transfer project: confidence intervals, regression, and reporting with Quarto – based on >6M synthetic transactions.
+
+🚧 Coming soon:  
+**`alunera-itsm-360`** → A fully simulated ITIL-based BI platform:  
+realistic CIs, cloud/on-prem infrastructure, monitoring, tickets, SLAs, automation, and CSI forecasting.
 
 ---
 
 ## 📬 Connect with me
-- GitHub: [@yvieki](https://github.com/yvieki)  
+
+- GitHub: [@alunera-data](https://github.com/alunera-data)  
 - LinkedIn: [Yvonne Kirschler](https://www.linkedin.com/in/yvonne-kirschler-719224188/)
 
 ---
